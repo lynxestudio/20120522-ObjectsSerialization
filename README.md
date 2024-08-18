@@ -37,11 +37,11 @@ $ mcs /t:library Author.cs Book.cs Publisher.cs /out:Samples.dll</tt>
 $ mcs -r:Samples.dll TestSerialization.cs
 $ mono TestSerialization.cs</pre>
 <div>
-<img src="picture_library/serialization/fig1.png"/>
+<img src="images/fig1.png"/>
 </div><br />
 </p><br />
 <div>Mostramos la serialización y deserialización de un grafo de objetos relacionados.</div><br/>
 <div>
-<img src="picture_library/serialization/fig2.png"/>
+<img src="images/fig2.png"/>
 </div>
 </p>
